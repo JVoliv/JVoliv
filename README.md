@@ -4,7 +4,7 @@
 
 <br>
 
-<p align="left"><strong>Computer Technician</strong> and studying the <strong>3nd</strong> term of <strong>Telematics</strong> at <strong>IFPB - Campus Campina Grande</strong>. 
+<p align="left"><strong>Computer Technician</strong> and studying <strong>Systems Analysis and Development</strong> at <strong>UNICESUMAR</strong>. 
 
 <br>
 
