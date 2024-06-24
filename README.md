@@ -25,12 +25,14 @@
 <h1> </h1>
 
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+ ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
  ![MySQL](https://img.shields.io/badge/MySQL-F29221?style=for-the-badge&logo=mysql&logoColor=3E6E93)
  ![PostgreSQL](https://img.shields.io/badge/postgresql-3670A0?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
  ![Power Bi](https://img.shields.io/badge/Power%20Bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=212121)
  ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
  ![Knime](https://img.shields.io/badge/Knime-143?style=for-the-badge&logo=Affinity&logoColor=black&color=black&labelColor=FFD800)
  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+ ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 
 <table align = "center" border = '0'>
