@@ -34,6 +34,8 @@
  ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
  ![NestJS](https://img.shields.io/badge/NestJS-e0234e?style=for-the-badge&logo=nestjs&logoColor=white)
  ![Prisma](https://img.shields.io/badge/Prisma-0f2e45?style=for-the-badge&logo=prisma&logoColor=white)
+ ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
+
 
 
 <table align = "center" border = '0'>
