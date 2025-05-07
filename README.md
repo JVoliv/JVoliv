@@ -1,5 +1,3 @@
-<img src="https://github.com/JVoliv/JVoliv/blob/main/computer-illustration.png?raw=true" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador">
-
 <h1 align="center">Hi! 👋, I'm João Oliveira.</h1>
 
 <br>
