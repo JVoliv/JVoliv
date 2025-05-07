@@ -55,10 +55,6 @@ I'm a **Full-Stack Developer in Training** currently studying **Systems Analysis
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JVoliv&label=Profile%20views&color=0e75b6&style=flat" alt="visitors" />
-</div>
-
-<div align="center">
   
   ### Feel free to reach out! 🤝
   
