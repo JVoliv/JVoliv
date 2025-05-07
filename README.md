@@ -1,7 +1,7 @@
 # <div align="center">👨‍💻 João Oliveira | Full-Stack Developer in Training</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer+in+Training;Systems+Analysis+and+Development+Student;Technology+Enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&duration=3000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer+in+Training;Systems+Analysis+and+Development+Student&font=Fira%20Code&center=true&width=540&height=45&color=f75c7e&vCenter=true&size=22&duration=3000&pause=1000">
 </div>
 
 <br>
@@ -24,8 +24,6 @@ I'm a **Full-Stack Developer in Training** currently studying **Systems Analysis
   ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-F29221?style=for-the-badge&logo=mysql&logoColor=3E6E93)
   ![PostgreSQL](https://img.shields.io/badge/postgresql-3670A0?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
-  ![Power BI](https://img.shields.io/badge/Power%20Bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=212121)
-  ![Knime](https://img.shields.io/badge/Knime-143?style=for-the-badge&logo=Affinity&logoColor=black&color=black&labelColor=FFD800)
   ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
   ![NestJS](https://img.shields.io/badge/NestJS-e0234e?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -72,6 +70,4 @@ I'm a **Full-Stack Developer in Training** currently studying **Systems Analysis
   
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+
