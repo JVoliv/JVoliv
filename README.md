@@ -10,10 +10,6 @@ I'm a **Full-Stack Developer in Training** currently studying **Systems Analysis
 
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <b>Technical Skills</b>
-
-<br>
-
 <div align="center">
 
   ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -28,17 +24,12 @@ I'm a **Full-Stack Developer in Training** currently studying **Systems Analysis
   
 </div>
 
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>GitHub Stats</b>
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JVoliv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVoliv&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <br>
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> <b>Let's Connect!</b>
 
 <div align="center">
   
