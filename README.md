@@ -25,10 +25,9 @@ I'm a **Full-Stack Developer in Training** currently studying **Systems Analysis
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JVoliv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVoliv&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JVoliv&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVoliv&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 </div>
-
 <br>
 
 <div align="center">
